@@ -22,3 +22,7 @@
 ### 2일차
 -PostgreSQL
 -PostGIS
+
+### 3일차
+-QGIS
+-Python
