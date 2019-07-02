@@ -24,5 +24,7 @@
 -PostGIS
 
 ### 3일차
+- QGIS Plug 개발
 -QGIS
 -Python
+- 원격탐사
